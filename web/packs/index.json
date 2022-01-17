@@ -1,0 +1,8 @@
+{
+    "homeserver_url": "https://m.closer.contact/",
+    "packs": [
+      "scalar-geeko.json",
+      "scalar-rabbit.json",
+      "scalar-loading_artist.json"
+    ]
+  }
